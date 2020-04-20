@@ -15,11 +15,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <distributionManagement>
-    <repository>
-      <id>bintray-txray-Maven</id>
-      <name>txray-Maven</name>
-      <url>https://api.bintray.com/maven/txray/Maven/[PACKAGE_NAME]/;publish=1</url>
-    </repository>
-  </distributionManagement>
 </project>
