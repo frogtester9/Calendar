@@ -4,7 +4,7 @@
   <groupId>bandi-test-new</groupId>
   <artifactId>calendertest</artifactId>
   <packaging>jar</packaging>
-  <version>4.0-SNAPSHOT-1</version>
+  <version>1.0-SNAPSHOT-1</version>
   <name>Calendar</name>
   <url>http://maven.apache.org</url>
   <dependencies>
