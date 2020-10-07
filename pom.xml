@@ -14,10 +14,5 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-       <groupId>com.github.skjolber.json-log-filter</groupId>
-       <artifactId>jackson</artifactId>
-       <version>1.0.16</version>
-    </dependency>
   </dependencies>
 </project>
